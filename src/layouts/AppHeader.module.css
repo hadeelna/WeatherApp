@@ -1,0 +1,27 @@
+
+.header{
+    width: 90%;
+    height:4.5rem;
+    font-size: 2rem;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color:rgb(103, 151, 164);
+    color: rgb(67, 67, 67);
+    padding: 0 5%;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.header ul{
+    list-style: none;
+    display: flex;
+}
+.header li{
+    padding-left: 3rem;
+    color: aqua;
+}
+.header a {
+    text-decoration: none;
+    font-size: 1.5 rem;
+    color:rgb(67, 67, 67);
+}

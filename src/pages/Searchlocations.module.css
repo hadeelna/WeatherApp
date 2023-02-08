@@ -1,0 +1,29 @@
+.h2{
+    color:rgb(67, 67, 67);;
+}
+
+.formRow{
+    margin-bottom:0.5rem ;
+    justify-content: space-between;
+
+}
+.fromRow label{
+    font-weight: bold;
+}
+.formRow input{
+    border-radius: 0.2rem;
+    border: 0.1rem solid rgb(0, 0, 0);
+    padding: 0.25rem;  
+}
+.b{
+    background-color:rgb(67, 67, 67);
+        border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }

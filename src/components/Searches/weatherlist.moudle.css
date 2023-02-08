@@ -1,0 +1,13 @@
+.WeatherList{
+    width: 45%;
+    height: 70%;
+    font-size: 1rem;
+    text-align: left;
+    color:rgb(0, 0, 0);
+    background-color: rgb(0, 106, 106);
+    margin: auto;
+    padding:0 5% ;
+    border-radius: 20px;
+    list-style: none;
+
+}

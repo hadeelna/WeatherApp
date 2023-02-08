@@ -1,0 +1,55 @@
+.SearchItem{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    background-color:rgb(103, 151, 164);
+    padding-left:1rem;
+    justify-content: inherit;
+    font-style:italic;
+    margin:10px 0;
+    border-radius: 6px;
+}
+.NameCol{
+    width: 20%;
+    height: 4rem;
+
+}
+
+.CountryCol{
+    width:20%;
+}
+.stateCol{
+    width: 25%;
+}
+
+.Addto{
+    width: 20%;
+    display: flex;
+    align-items: center;
+
+}
+.location{
+    width: 15%;
+    margin-right: 20%;
+}
+
+.Descreption{
+    width:15%;
+    margin-right:20%;
+
+}
+.Temp{
+    width: 20%;
+    margin-right: 40%;
+}
+.title{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    background-color:rgb(103, 151, 164);
+    padding-left:1rem;
+    justify-content: inherit;
+    font-style:italic;
+    margin:10px 0;
+    border-radius: 6px;
+}

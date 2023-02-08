@@ -1,0 +1,60 @@
+.savedList{
+    height: 10%;
+    width: 55%;
+    text-align: left;
+    color:rgb(0, 0, 0);
+    margin: auto;
+    padding:0 5% ;
+    border-radius: 20px;
+    list-style: none;
+    }
+    .title{
+        height: 18%;
+        width: 51%;
+        margin-left:22% ;
+        display: flex;
+        text-align: center; 
+        background-color:rgb(103, 151, 164);
+        font-style:normal;
+        border-radius: 6px;
+        
+    }
+    .location{
+        width: 20%;
+        height: 4rem;
+        margin-left: 0.9%; 
+
+    }
+    
+    .Descreption{
+        width:20%;   
+        margin-left: 6%; 
+    }
+    .Temp{
+        width: 25%;
+    
+    }
+    .wind{
+        width: 15%;
+    margin-left: 8%;
+    }
+
+    .LocationCol{
+        width: 20%;
+        height: 4rem;
+        
+    }
+    
+    .DescreptionCol{
+        width:20%;
+    }
+    .TemperatureCol{
+        width: 20%;
+    }
+    .windCol{
+        width: 25%;
+        margin-left: 20%;
+    
+    }
+    
+    

@@ -1,0 +1,64 @@
+.h1{
+  text-align: center;
+  text-transform: uppercase;
+  color:rgb(59, 59, 59);
+}
+  .search{
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    justify-content:space-between;
+    color:rgb(23, 23, 24);
+    margin-right:300px;
+  }
+  
+  .display{
+    cursor: pointer; /* Pointer/hand icon */
+    position: absolute;
+    top: 40%;
+    left: 55%;
+    justify-content:space-between;
+    color: rgb(255, 255, 255);
+    margin-right:300px;
+  }
+  .btnStack {
+    font-family: Oswald;
+    background-color:rgb(103, 151, 164);
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding: 25px 41px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-size: 1.2rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  .btnStack:hover {
+    background-color:rgb(23, 23, 24);
+    color: #fff;
+    font-size: 1.4rem;
+
+  }
+.p5{
+    top:40%;
+    text-transform:initial;
+    color:rgb(67, 67, 67);
+    font-size: 1.2rem;
+
+  }
+
+

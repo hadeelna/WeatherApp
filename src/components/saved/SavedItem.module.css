@@ -1,0 +1,71 @@
+.savedItem{
+    height: 100%;
+    width: 90%;
+    display: flex;
+    background-color:rgb(103, 151, 164);
+    padding-left:1rem;
+    justify-content: inherit;
+    font-style:normal;
+    margin:10px 0;
+    border-radius: 6px;
+}
+.title{
+    height: 100%;
+    width: 90%;
+    display: flex;
+    background-color:#FBEEE6;
+    padding-left:1rem;
+    justify-content: inherit;
+    font-style:italic;
+    margin:10px 0;
+    border-radius: 6px;
+}
+.location{
+    width: 15%;
+    margin-left: 10%;
+}
+
+.Descreption{
+    width:15%;
+    margin-left: 5%;
+
+}
+.Temp{
+    width: 20%;
+    margin-left: 10%;
+
+
+}
+.wind{
+    width: 15%;
+margin-left: 10%;
+}
+.LocationCol2{
+    width: 10%;
+    margin: 10px;
+    height: 4rem;
+}
+.LocationCol{
+    width: 20%;
+    height: 4rem;
+    
+}
+
+.DescreptionCol{
+    width:20%;
+}
+.TemperatureCol{
+    width: 20%;
+    margin-left: 14%;
+}
+.windCol{
+    width: 25%;
+    margin-left: 10%;
+
+}
+.main{
+    width: 10%;
+    height: 2rem;
+    margin-top: 4%;
+}
+
